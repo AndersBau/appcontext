@@ -1,0 +1,18 @@
+#root {
+  height: 100vh;
+  background-color: rgb(214, 214, 212);
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ height: 10vh;
+ background-color: rgb(40, 59, 146);
+}
+
+.title {
+  color: aliceblue;
+  display: inline;
+  margin: .5rem .5rem;
+}
+
